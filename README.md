@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-`For this endeavor, we utilize Data Modeling with Postgres and construct an ETL (Extract, Transform, Load) pipeline employing Python. A fledgling company aims to examine the information they have amassed pertaining to songs and user engagement on their recently launched music streaming application. Presently, they are gathering data in the json format, and the analytics team holds a specific focus on gaining insights into the songs that users are currently enjoying.`
+For this endeavor, we utilize Data Modeling with Postgres and construct an ETL (Extract, Transform, Load) pipeline employing Python. A fledgling company aims to examine the information they have amassed pertaining to songs and user engagement on their recently launched music streaming application. Presently, they are gathering data in the json format, and the analytics team holds a specific focus on gaining insights into the songs that users are currently enjoying.
 
 ## **Song Dataset**
 The songs dataset is a subset of the [**Million Song Dataset**](http://millionsongdataset.com/).
